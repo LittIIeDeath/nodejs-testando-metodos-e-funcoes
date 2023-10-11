@@ -29,5 +29,5 @@ function main() {
     })
 }
 main().then(function (resultado) {
-    console.log('resultado', resultado.toString())
+    console.log('resultado: ', resultado.toString())
 })
